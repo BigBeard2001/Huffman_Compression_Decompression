@@ -1,1 +1,2 @@
 # Huffman_Compression_Decompression
+Compression and Decompression given sentences
